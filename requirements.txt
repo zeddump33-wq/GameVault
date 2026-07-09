@@ -1,0 +1,2 @@
+-GameVault
+# RAR extraction requires WinRAR installed on your system
