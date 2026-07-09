@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/download",
-      "destination": "https://github.com/zeddump33-wq/GameVault/releases/download/v1.0.0/GameImport.exe",
-      "permanent": false
-    }
-  ]
-}
